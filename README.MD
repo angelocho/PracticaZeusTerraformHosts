@@ -1,0 +1,1 @@
+Esta practica consiste en, con una plantilla de terraform ( tftpl ), crear, segun el enviroment, un fichero hosts u otro

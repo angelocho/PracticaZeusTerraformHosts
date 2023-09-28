@@ -1,0 +1,3 @@
+4.4.4.4 hostdos
+8.8.8.8 hostuno
+127.0.0.1 localhost
